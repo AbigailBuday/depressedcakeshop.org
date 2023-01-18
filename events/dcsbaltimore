@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5bbeccbd4785d335cfe50a06@squarespace.com
+DTSTAMP:20181011T041806Z
+DTSTART:20181012T010000Z
+DTEND:20181012T030000Z
+SUMMARY:Depressed Cake Shop to pop up in Baltimore
+GEO:39.331818;-76.641497
+LOCATION:Waverly Brewing Company\, 1625 Union Avenue\, Baltimore\, MD\, 212
+ 11\, United States
+END:VEVENT
+END:VCALENDAR

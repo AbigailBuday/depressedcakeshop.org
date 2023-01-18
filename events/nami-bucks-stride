@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5cd8bbc0104c7b6ab94201d1@squarespace.com
+DTSTAMP:20190518T045607Z
+DTSTART:20190518T200000Z
+DTEND:20190519T000000Z
+SUMMARY:Depressed Cake Shop will be selling delicious treats created by Nat
+ ive Sweets' Tomma Marcincuk at NAMI Bucks County\, PA Stride for Mental He
+ alth Awareness
+GEO:40.204071;-75.053956
+LOCATION:Warminster Community Park\, 350 East Bristol Road\, Warminster\, P
+ A\, 18974\, United States
+END:VEVENT
+END:VCALENDAR

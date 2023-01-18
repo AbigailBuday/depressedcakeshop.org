@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5da2f6819af31217ca5b8fe8@squarespace.com
+DTSTAMP:20191013T100732Z
+DTSTART:20191103T183000Z
+DTEND:20191103T193000Z
+SUMMARY:7th Annual Houston Depressed Cake Shop
+GEO:29.770718;-95.37699
+LOCATION:Silver Street Studios\, Silver Street\, Houston\, TX\, 77007\, Uni
+ ted States
+END:VEVENT
+END:VCALENDAR

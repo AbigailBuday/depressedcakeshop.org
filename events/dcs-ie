@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5cd8e3007398a700018f7fc9@squarespace.com
+DTSTAMP:20190513T033251Z
+DTSTART:20190518T170000Z
+DTEND:20190518T210000Z
+SUMMARY:Depressed Cake Shop returns to the Inland Empire! in partnership wi
+ th Dulcet Designs
+GEO:34.12846;-117.848795
+LOCATION:Dulcet Designs   by Jen\, 1010 East Route 66\, Glendora\, CA\, 917
+ 40\, United States
+END:VEVENT
+END:VCALENDAR

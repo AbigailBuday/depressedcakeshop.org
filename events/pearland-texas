@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5cdf846e0f06d30001f434c6@squarespace.com
+DTSTAMP:20190518T041851Z
+DTSTART:20190519T000000Z
+DTEND:20190519T030000Z
+SUMMARY:Depressed Cake Shop pops up in Pearland\, Texas to benefit Counseli
+ ng Connections for Change
+GEO:29.559677;-95.347265
+LOCATION:The Drink Station\, 8209 Broadway street\, Pearland\, TX\, 77581\, 
+ United States
+END:VEVENT
+END:VCALENDAR

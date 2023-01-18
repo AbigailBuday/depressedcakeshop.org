@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5cc49549971a180610a84d94@squarespace.com
+DTSTAMP:20190427T175348Z
+DTSTART:20190519T200000Z
+DTEND:20190519T230000Z
+SUMMARY:Depressed Cake Shop Portland  back for another wonderful shop on Ma
+ y 19th
+GEO:45.526787;-122.636923
+LOCATION:Opal\, 510 Northeast 28th Avenue\, Portland\, OR\, 97232\, United 
+ States
+END:VEVENT
+END:VCALENDAR

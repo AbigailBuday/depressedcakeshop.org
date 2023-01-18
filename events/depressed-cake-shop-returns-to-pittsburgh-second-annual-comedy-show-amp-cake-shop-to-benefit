@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5d9afaa064d4b90d4661ffc8@squarespace.com
+DTSTAMP:20191007T084847Z
+DTSTART:20191011T030000Z
+DTEND:20191011T050000Z
+SUMMARY:Depressed Cake Shop returns to Pittsburgh - Second Annual Comedy Sh
+ ow &amp\; Cake Shop to Benefit
+GEO:40.44346;-79.996475
+LOCATION:943 Liberty Ave\, Pittsrbugh\, PA. 15222
+END:VEVENT
+END:VCALENDAR

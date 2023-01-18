@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:59ca6049be42d65c0ddf680c@squarespace.com
+DTSTAMP:20170926T154148Z
+DTSTART:20171001T183000Z
+DTEND:20171001T220000Z
+SUMMARY:Depressed Cake Shop joins Out of the Darkness Walk in Lake Placid\, 
+ NY
+GEO:44.284341;-73.984881
+LOCATION:Olympic Speedskating Oval\, 2634 Main Street\, Lake Placid\, NY\, 
+ 12946\, United States
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:591e63cae3df28d2297c0eb6@squarespace.com
+DTSTAMP:20170519T033123Z
+DTSTART:20170520T010000Z
+DTEND:20170520T040000Z
+SUMMARY:Depressed Cake Shop Portland to benefit Baby Blues Connection
+GEO:45.560174;-122.641701
+LOCATION:Depressed Cake Shop at The Little Church\, 5138 Northeast 23rd Ave
+ nue\, Portland\, OR\, 97211\, United States
+END:VEVENT
+END:VCALENDAR

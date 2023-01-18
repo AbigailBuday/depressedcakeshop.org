@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5bbf9dee8165f5e8c2c95432@squarespace.com
+DTSTAMP:20181011T201711Z
+DTSTART:20181014T000000Z
+DTEND:20181014T030000Z
+SUMMARY:Depressed Cake Shop Brazoria County\, Texas
+GEO:29.559677;-95.347265
+LOCATION:The Drink Station (Pearland\, TX)\, 8209 Broadway Street\, Suite 1
+ 03\, Pearland\, Texas 77581\, United States
+END:VEVENT
+END:VCALENDAR

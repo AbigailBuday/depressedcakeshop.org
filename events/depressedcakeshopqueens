@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:59c08329e5dd5bf0edd7cb7f@squarespace.com
+DTSTAMP:20170919T024916Z
+DTSTART:20171007T180000Z
+DTEND:20171008T000000Z
+SUMMARY:Depressed Cake Shop Queens\, New York
+GEO:40.754253;-73.708301
+LOCATION:Cohen's Children's Medical Center\, 269-01 76th Avenue\, New Hyde 
+ Park\, NY\, 11040\, United States
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5bbe4212f4e1fc4a1de73fbb@squarespace.com
+DTSTAMP:20190427T151806Z
+DTSTART:20181023T013000Z
+DTEND:20181023T033000Z
+SUMMARY:Depressed Cake Shop to pop up as Western States Conference on Suici
+ de arrives in Boise
+GEO:43.617469;-116.206557
+LOCATION:Barbarian Brewing Company\, 1022 West Main Street\, Boise\, ID\, 8
+ 3702\, United States
+END:VEVENT
+END:VCALENDAR

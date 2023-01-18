@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5e41a5f69779c905c325854d@squarespace.com
+DTSTAMP:20200210T200348Z
+DTSTART:20200214T023000Z
+DTEND:20200214T040000Z
+SUMMARY:Depressed Cake Shop Plymouth\, NH pops up 2/13/20 in the White Moun
+ tains!
+GEO:43.758338;-71.691616
+LOCATION:Museum of the White Mountains\, 34 Highland Street\, Plymouth\, NH
+ \, 03264\, United States
+END:VEVENT
+END:VCALENDAR

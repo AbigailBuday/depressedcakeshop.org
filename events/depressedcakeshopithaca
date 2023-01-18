@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5cc48a994e17b64d64e799f9@squarespace.com
+DTSTAMP:20190427T182134Z
+DTSTART:20190428T190000Z
+DTEND:20190428T230000Z
+SUMMARY:Depressed Cake Shop to pop up in Ithaca
+GEO:42.450688;-76.503433
+LOCATION:Cornell Cooperative ExtensionTompkins County  CCE-Tompkins Educati
+ on Center\, 615 Willow Avenue\, Ithaca\, NY 14850-3555\, UNITED STATES
+END:VEVENT
+END:VCALENDAR

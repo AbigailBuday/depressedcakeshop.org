@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:59d001b1bce176b4eb24e1d7@squarespace.com
+DTSTAMP:20170930T210458Z
+DTSTART:20171010T180000Z
+DTEND:20171010T210000Z
+SUMMARY:Depressed Cake Shop Shrewsbury
+GEO:52.707373;-2.755262
+LOCATION:Shrewsbury Museum and Art Gallery\, Market Street\, Shrewsbury\, E
+ ngland\, SY1 1LE\, United Kingdom
+END:VEVENT
+END:VCALENDAR

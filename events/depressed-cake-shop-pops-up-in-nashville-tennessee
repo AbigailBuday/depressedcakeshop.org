@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5cdf87ccf90b460001f639da@squarespace.com
+DTSTAMP:20190518T043402Z
+DTSTART:20190518T190000Z
+DTEND:20190518T230000Z
+SUMMARY:Depressed Cake Shop pops up in Nashville\, Tennessee to benefit NAM
+ I Tennessee
+GEO:36.203401;-86.741089
+LOCATION:Anaconda Vintage\, 1062 East Trinity Lane\, #101\, Nashville\, TN\
+ , 37216\, United States
+END:VEVENT
+END:VCALENDAR
